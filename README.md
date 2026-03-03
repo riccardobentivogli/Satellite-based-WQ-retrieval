@@ -16,6 +16,8 @@ The focus is on:
 1. Generate a synthetic dataset:
    - `python -m src.make_synthetic`
 2. (Next) Run EDA scripts / notebooks on `data/sample_data.npz`.
+3.  Print dataset summary:
+  - `python -m src.eda_summary`
 
 ## Data Policy
 

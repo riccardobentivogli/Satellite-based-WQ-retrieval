@@ -12,6 +12,11 @@ The focus is on:
 
 ---
 
+## Quick start (no private data)
+1. Generate a synthetic dataset:
+   - `python -m src.make_synthetic`
+2. (Next) Run EDA scripts / notebooks on `data/sample_data.npz`.
+
 ## Data Policy
 
 This repository does NOT include real satellite or in-situ datasets.
